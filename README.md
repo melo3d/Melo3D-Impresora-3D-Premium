@@ -2,7 +2,7 @@
 
 Basada en la Original Prusa i3 Mk3S, con pantalla táctil de 7″ & 32gb memoria interna + Wifi
 
-![Melo3D Premium 3D Printer](https://github.com/melo3d/Melo3D-Impresora-3D-Premium/blob/master/images/Melo3D-Hero-Image-V03.jpg?s=200)
+<img src="https://github.com/melo3d/Melo3D-Impresora-3D-Premium/blob/master/images/Melo3D-Hero-Image-V03.jpg" width="200">
 
 ## Descripción
 
