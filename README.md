@@ -18,7 +18,7 @@ Completamente ensamblada y lista para imprimir, derivada de la galardonada Origi
 
 ## Enlaces
 
- * [Manual del Usuario](https://github.com/melo3d/Melo3D-Impresora-3D-Premium/wiki)*
+ * [Manual del Usuario](https://github.com/melo3d/Melo3D-Impresora-3D-Premium/wiki)
  * https://melo3d.com
  
  
